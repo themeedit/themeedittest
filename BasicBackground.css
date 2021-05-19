@@ -7061,7 +7061,7 @@ html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-1q1i1E >
 	color: var(--text-muted) !important;
 	cursor: pointer !important;
 	display: inline !important;
-	opacity: 1 !important;
+	opacity: 0 !important;
 	padding: 0 !important;
 	margin: 0 !important;
 	cursor: text !important;
@@ -7079,7 +7079,7 @@ html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-1q1i1E >
 	font-size: 12px !important;
 	color: rgb(var(--accentcolor)) !important;
 	display: inline !important;
-	opacity: 1 !important;
+	opacity: 0 !important;
 	padding: 0 !important;
 	margin: 0 !important;
 	cursor: pointer !important;
