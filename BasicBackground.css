@@ -6988,7 +6988,7 @@ html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.typeWindows-
 	left: 0 !important;
 	bottom: unset !important;
 	right: unset !important;
-	opacity: 1 !important;
+	opacity: 0 !important;
 	visibility: visible !important;
 	transform: unset !important;
 	animation: unset !important;
@@ -7008,7 +7008,7 @@ html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.typeWindows-
 	left: unset !important;
 	bottom: unset !important;
 	right: unset !important;
-	opacity: 1 !important;
+	opacity: 0 !important;
 	padding: 0 !important;
 	margin: 0 !important;
 	visibility: visible !important;
@@ -7027,7 +7027,7 @@ html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.typeWindows-
 	left: 64px !important;
 	bottom: unset !important;
 	right: unset !important;
-	opacity: 1 !important;
+	opacity: 0 !important;
 	padding: 0 !important;
 	margin: 0 !important;
 	visibility: visible !important;
